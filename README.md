@@ -246,14 +246,14 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 34-1: _Arquitetura de redes_
 - [ ] 34-2: _Redes de computadores, ferramentas e segurança_
 - [ ] 34-3: _Raspagem de dados_
-- [ ] 34-4: _[Projeto - Tech news]_
+- [ ] 34-4: _[Projeto - Tech news]()_
 
 ##### Bloco 35: Algoritmos
 
 - [ ] 35-1: _Complexidade de Algoritmos_
 - [ ] 35-2: _Recursividade e Estratégias para solução de problemas_
 - [ ] 35-3: _Algoritmos de ordenação e busca_
-- [ ] 35-4: _[Projeto - Algoritmos]_
+- [ ] 35-4: _[Projeto - Algoritmos]()_
 
 ##### Bloco 36: Estrutura de Dados I: Arrays, Hashmaps e Sets
 
@@ -261,12 +261,12 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 36-2: _Arrays_
 - [ ] 36-3: _Hashmap e Dict_
 - [ ] 36-4: _Set_
-- [ ] 36-4: _[Projeto - Restaurant Orders]_
+- [ ] 36-4: _[Projeto - Restaurant Orders]()_
 
 ##### Bloco 37:  Estrutura de Dados II: Listas, Filas e Pilhas
 
 - [ ] 37-1: _Nós e Listas Encadeadas_
 - [ ] 37-2: _Deque_
 - [ ] 37-3: _Pilhas_
-- [ ] 37-4: _[Projeto - TING - Trybe Is Not Google]_
+- [ ] 37-4: _[Projeto - TING - Trybe Is Not Google]()_
 
