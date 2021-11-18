@@ -1,2 +1,4 @@
-- JAVAScript
-- SoftSkills
+- React
+- JavaScript
+- Soft Skills
+
