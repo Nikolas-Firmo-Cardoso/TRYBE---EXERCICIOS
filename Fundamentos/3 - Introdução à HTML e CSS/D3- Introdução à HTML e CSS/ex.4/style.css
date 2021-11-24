@@ -1,0 +1,36 @@
+ol {
+    background-color: yellow; 
+ }
+ 
+ .par {
+     color: green;
+ }
+ 
+ .impar {
+     text-transform: uppercase;
+ }
+ 
+ .mudaitalico {
+     font-size: 40px;
+     border: 1px solid black;
+ }
+ 
+ h1, h2, h3 {
+     color: red;
+ }
+ 
+ li, li.italico {
+     font-size: 20px;
+ }
+ 
+ .italico {
+     font-weight: bold;
+ }
+ 
+ .azul {
+     color: blue;
+ }
+ 
+ .java {
+     background-color: pink;
+ }

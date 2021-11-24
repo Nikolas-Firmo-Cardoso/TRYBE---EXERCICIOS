@@ -1,0 +1,32 @@
+h3:hover {
+    border: 3px solid gray;
+}
+
+h3 {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.red {
+    background-color: red;
+    font-style: italic;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.blue {
+    background-color: cornflowerblue;
+    font-style: italic;
+    padding: 5px;
+    padding: 5px;
+}
+
+.brown {
+    background-color: brown;
+}
+
+.yellow {
+    background-color: yellow;
+    font-style: italic;
+}
